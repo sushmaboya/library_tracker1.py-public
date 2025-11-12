@@ -1,0 +1,16 @@
+{
+    "101": {
+        "book_id": "101",
+        "title": "Harry Potter",
+        "author": "j.k Rowling",
+        "year": "1997",
+        "is_borrowed": false
+    },
+    "102": {
+        "book_id": "102",
+        "title": "telugu",
+        "author": "sushma",
+        "year": "2000",
+        "is_borrowed": false
+    }
+}
